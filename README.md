@@ -1,0 +1,2 @@
+# Ayk-Command
+Aykadia-script
